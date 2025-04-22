@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkstraOpgaveC", "EkstrraOpgaveC\EkstraOpgaveC.csproj", "{D5032588-FDCD-603E-4DCF-ADC8A63EDCA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5032588-FDCD-603E-4DCF-ADC8A63EDCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5032588-FDCD-603E-4DCF-ADC8A63EDCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5032588-FDCD-603E-4DCF-ADC8A63EDCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5032588-FDCD-603E-4DCF-ADC8A63EDCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D271BF5-D024-497D-81C6-40C4D0DF7C89}
+	EndGlobalSection
+EndGlobal
